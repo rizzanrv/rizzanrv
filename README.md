@@ -4,7 +4,7 @@
 - 💞️ Создаю ботов для Telegram, Discord
 - 📫 Для связи со мной используй:
 Telegram: rizzanrvia.t.me
-Discord: rizzanrv
+Discord: rizzaдщмуг
 
 <!---
 rizzanrv/rizzanrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
