@@ -1,13 +1,15 @@
 <h1 align="center">Hey there! 👋</h1>
 <p align="center"><strong>I'm Rizza — Backend Developer & Student</strong></p>
+
 <p align="center">
 I specialize in:
+</p>
+
 <ul style="display:inline-block; text-align:left;">
 <li>Discord & Telegram bots</li>
 <li>APIs & backend services</li>
 <li>Automation & personal projects</li>
 </ul>
-</p>
 
 <p align="center">
   <a href="https://t.me/unbrokenflex">
@@ -44,4 +46,36 @@ I specialize in:
 
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"/>
+</p>
+
+---
+
+## 🛠️ My Projects (Closed Source)
+
+<p align="center">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; width: 300px; text-align:center;">
+    <h3>Spylens</h3>
+    <p>Telegram bot for tracking deleted/edited messages, photos, voice & video notes, and saving self-destructing media</p>
+    <a href="https://t.me/spylens">
+      <img src="https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram" alt="Spylens">
+    </a>
+  </div>
+
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; width: 300px; text-align:center;">
+    <h3>ClassFlow</h3>
+    <p>Telegram bot for students of all branches & faculties of MGUTU to check up-to-date class schedules</p>
+    <a href="https://t.me/classflowdev">
+      <img src="https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram" alt="ClassFlow">
+    </a>
+  </div>
+
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; width: 300px; text-align:center;">
+    <h3>Toolbox (Tester)</h3>
+    <p>Universal Telegram assistant: AI answers, image generation, file processing, and more</p>
+    <a href="https://t.me/toolbox">
+      <img src="https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram" alt="Toolbox">
+    </a>
+  </div>
+</div>
 </p>
