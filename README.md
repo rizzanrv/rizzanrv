@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋</h1>
-<p align="center"><strong>I'm Rizza — Backend Developer & Student</strong></p>
+<p align="center"><strong>I'm Backend Developer & Student</strong></p>
 
 <p align="center">
 I specialize in:
