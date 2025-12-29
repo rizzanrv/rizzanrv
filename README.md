@@ -37,11 +37,6 @@ I specialize in:
 
 ---
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rizzanrv&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzanrv&layout=compact&theme=dark)
-
----
-
 ## 🚀 Currently Working On
 - Discord & Telegram bots  
 - Backend APIs & automation services  
@@ -70,3 +65,36 @@ Universal Telegram assistant: AI answers, image generation, file processing, and
 [![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/toolbox) 
 [![Peak Users](https://img.shields.io/badge/Peak%20Users-135,000-brightgreen?style=for-the-badge)]()
 
+---
+
+## 🌱 Learning & Exploring
+- Go for microservices & automation  
+- Kubernetes & Terraform  
+- Advanced async programming in Rust  
+
+---
+
+## 🏆 Achievements & Milestones
+- Toolbox reached **135,000 users**  
+- ClassFlow reached **5,500 students**  
+- spylens reached **2,800 users**  
+- Multiple successful Discord & Telegram bot deployments  
+- Participation in coding contests & hackathons  
+- Completed **Mobile GameDev Bootcamp intensive** by Samsung  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizzanrv&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzanrv&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
+## 💬 Social & Contact
+<p align="center">
+  <a href="https://t.me/unbrokenflex">
+    <img src="https://img.shields.io/badge/Telegram-@unbrokenflex-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+</p>
