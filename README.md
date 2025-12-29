@@ -6,9 +6,9 @@ I specialize in:
 </p>
 
 <ul style="display:inline-block; text-align:left; list-style:none; padding:0; margin:16px 0;">
-  <li>• Discord & Telegram bots</li>
-  <li>• APIs & backend services</li>
-  <li>• Automation & personal projects</li>
+  <li>Discord & Telegram bots</li>
+  <li>APIs & backend services</li>
+  <li>Automation & personal projects</li>
 </ul>
 
 <p align="center">
@@ -50,14 +50,18 @@ I specialize in:
 
 ## 🛠️ My Projects (Closed Source)
 
-### [Spylens](https://t.me/spylens)
+### [spylens](https://t.me/spylens) 
 Telegram bot for tracking deleted/edited messages, photos, voice & video notes, and saving self-destructing media  
-[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/spylens)
+[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/spylens) 
+[![Peak Users](https://img.shields.io/badge/Peak%20Users-2,800-brightgreen?style=for-the-badge)]()
 
-### [ClassFlow](https://t.me/classflowdev)
+### [ClassFlow](https://t.me/classflowdev) 
 Telegram bot for students of all branches & faculties of MGUTU to check up-to-date class schedules  
-[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/classflowdev)
+[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/classflowdev) 
+[![Peak Users](https://img.shields.io/badge/Peak%20Users-5,500-brightgreen?style=for-the-badge)]()
 
-### [Toolbox (Tester)](https://t.me/toolbox)
+### [Toolbox (Tester)](https://t.me/toolbox) 
 Universal Telegram assistant: AI answers, image generation, file processing, and more  
-[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/toolbox)
+[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/toolbox) 
+[![Peak Users](https://img.shields.io/badge/Peak%20Users-135,000-brightgreen?style=for-the-badge)]()
+
