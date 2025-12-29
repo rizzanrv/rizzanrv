@@ -37,6 +37,11 @@ I specialize in:
 
 ---
 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rizzanrv&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzanrv&layout=compact&theme=dark)
+
+---
+
 ## 🚀 Currently Working On
 - Discord & Telegram bots  
 - Backend APIs & automation services  
