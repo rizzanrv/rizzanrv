@@ -1,100 +1,101 @@
-<h1 align="center">Hey there! 👋</h1>
-<p align="center"><strong>I'm Backend Developer & Student</strong></p>
+# 👋 rizza
+### Backend / DevOps Engineer • Security Enthusiast
 
+📍 Moscow, Russia | 📧 [me@interes.click](mailto:me@interes.click)  
+🔗 [Telegram](https://t.me/unbrokenflex) • [GitHub](https://github.com/rizzanrv)
+
+---
+
+## 🎯 Profile
+Junior backend/devops engineer focused on **security** and **reliable architecture**.  
+I build secure microservices, automate deployments, and analyze application vulnerabilities.  
+Practical experience: authentication (JWT, OAuth), 2FA, reverse engineering, Linux administration.
+
+> 💡 *Looking for opportunities to apply my skills in backend, DevOps, and security engineering.*
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Security & Tools
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/-OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
+![Ghidra](https://img.shields.io/badge/-Ghidra-007396?style=for-the-badge&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![x64dbg](https://img.shields.io/badge/-x64dbg-007396?style=for-the-badge&logo=debug&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### [🔍 spylens](https://t.me/spylens)
+**Telegram bot for tracking deleted/edited messages, media & self-destructing content**  
+[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/spylens)
+[![Users](https://img.shields.io/badge/Users-2,800-brightgreen?style=for-the-badge)]()
+
+### [🎓 ClassFlow](https://t.me/classflowdev)
+**University schedule bot for all faculties of MSTUTE UKIT**  
+[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/classflowdev)
+[![Users](https://img.shields.io/badge/Users-5,500-brightgreen?style=for-the-badge)]()
+
+### [🧰 Toolbox](https://t.me/toolbox)
+**Universal Telegram assistant: AI answers, image generation, file processing & more**  
+[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/toolbox)
+[![Users](https://img.shields.io/badge/Users-135,000-brightgreen?style=for-the-badge)]()
+
+---
+
+## 🏆 Achievements
+
+| Year | Achievement |
+|------|-------------|
+| 2025 | 🎖️ Rector's Award "Breakthrough of the Year" (MSTUTE) |
+| 2023 | 🥉 3rd Place, Game Development (Java) — Samsung Innovation Campus |
+| 2023 | 📊 "VZLYOT" IT Olympiad: 90/100 points |
+| 2023 | ✅ Samsung Innovation Campus Certification |
+
+### 🌍 Languages
+| Language | Level |
+|----------|-------|
+| Russian | Native |
+| English | B2 (Upper-Intermediate) |
+
+---
+
+## 📈 GitHub Activity
 <p align="center">
-I specialize in:
-</p>
-
-<ul style="display:inline-block; text-align:left; list-style:none; padding:0; margin:16px 0;">
-  <li>Discord & Telegram bots</li>
-  <li>APIs & backend services</li>
-  <li>Automation & personal projects</li>
-</ul>
-
-<p align="center">
-  <a href="https://t.me/unbrokenflex">
-    <img src="https://img.shields.io/badge/Telegram-@unbrokenflex-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-  </a>
-</p>
-
----
-
-## ⚡ Technologies
-<p align="center">
-<img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=Python&logoColor=blue">
-<img src="https://img.shields.io/badge/-Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black">
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-Google_Cloud-F4B400?style=for-the-badge&logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/-ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-<img src="https://img.shields.io/badge/-Hyprland-F72585?style=for-the-badge&logoColor=white">
-</p>
-
----
-
-## 🚀 Currently Working On
-- Discord & Telegram bots  
-- Backend APIs & automation services  
-- Personal projects exploring Rust & C  
-
-<p align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="90"/>
-</p>
-
----
-
-## 🛠️ My Projects (Closed Source)
-
-### [spylens](https://t.me/spylens) 
-Telegram bot for tracking deleted/edited messages, photos, voice & video notes, and saving self-destructing media  
-[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/spylens) 
-[![Peak Users](https://img.shields.io/badge/Peak%20Users-2,800-brightgreen?style=for-the-badge)]()
-
-### [ClassFlow](https://t.me/classflowdev) 
-Telegram bot for students of all branches & faculties of MGUTU to check up-to-date class schedules  
-[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/classflowdev) 
-[![Peak Users](https://img.shields.io/badge/Peak%20Users-5,500-brightgreen?style=for-the-badge)]()
-
-### [Toolbox (Tester)](https://t.me/toolbox) 
-Universal Telegram assistant: AI answers, image generation, file processing, and more  
-[![Telegram](https://img.shields.io/badge/Telegram-Open-blue?style=for-the-badge&logo=telegram)](https://t.me/toolbox) 
-[![Peak Users](https://img.shields.io/badge/Peak%20Users-135,000-brightgreen?style=for-the-badge)]()
-
----
-
-## 🌱 Learning & Exploring
-- Go for microservices & automation  
-- Kubernetes & Terraform  
-- Advanced async programming in Rust  
-
----
-
-## 🏆 Achievements & Milestones
-- Toolbox reached **135,000 users**  
-- ClassFlow reached **5,500 students**  
-- spylens reached **2,800 users**  
-- Multiple successful Discord & Telegram bot deployments  
-- Participation in coding contests & hackathons  
-- Completed **Mobile GameDev Bootcamp intensive** by Samsung  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizzanrv&theme=dark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzanrv&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizzanrv&show_icons=true&theme=dark&hide_title=true" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzanrv&layout=compact&theme=dark&hide_title=true" alt="Languages">
 </p>
 
 ---
 
-## 💬 Social & Contact
+## 💬 Let's Connect
+```
+📧 me@interes.click
+✈️ @unbrokenflex (Telegram)
+🔗 github.com/rizzanrv
+```
+
+> 📄 Full PDF resume available upon request.
+
 <p align="center">
-  <a href="https://t.me/unbrokenflex">
-    <img src="https://img.shields.io/badge/Telegram-@unbrokenflex-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-  </a>
+  <sub>Thanks for stopping by! Open to collaborations and challenging projects 🚀</sub>
 </p>
