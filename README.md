@@ -1,7 +1,7 @@
 # 👋 rizza
 ### Backend / DevOps Engineer • Security Enthusiast
 
-📍 Moscow, Russia | 📧 [me@interes.click](mailto:me@interes.click)  
+📍 Finland, Helsinki | 📧 [me@interes.click](mailto:me@interes.click)  
 🔗 [Telegram](https://t.me/unbrokenflex) • [GitHub](https://github.com/rizzanrv)
 
 ---
