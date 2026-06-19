@@ -2,7 +2,6 @@
 ### Backend / DevOps Engineer • Security Enthusiast
 
 📍 Finland, Helsinki | 📧 [me@interes.click](mailto:me@interes.click)  
-🔗 [Telegram](https://t.me/unbrokenflex) • [GitHub](https://github.com/rizzanrv)
 
 ---
 
@@ -90,7 +89,6 @@ Practical experience: authentication (JWT, OAuth), 2FA, reverse engineering, Lin
 ## 💬 Let's Connect
 ```
 📧 me@interes.click
-✈️ @unbrokenflex (Telegram)
 🔗 github.com/rizzanrv
 ```
 
